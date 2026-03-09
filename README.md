@@ -40,5 +40,5 @@ RESTful backend with secure JWT authentication, pagination, filtering, and layer
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/ajinkya-kolhe-9543b9263
+💼 LinkedIn: [ajinkya-kolhe](https://www.linkedin.com/in/ajinkya-kolhe-9543b9263)
 📧 Email: [aj.kolhe9657@gmail.com](mailto:aj.kolhe9657@gmail.com)
