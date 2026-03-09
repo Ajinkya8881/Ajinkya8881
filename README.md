@@ -16,9 +16,6 @@ Backend Developer focused on building scalable backend systems, event-driven arc
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ajinkya8881&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ajinkya8881&layout=compact&theme=dark&hide=python,jupyter%20notebook)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ajinkya8881&theme=dark)
 
 
